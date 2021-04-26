@@ -1,0 +1,41 @@
+*GUI(1)*UserPrjDat:C:\Users\huang\Desktop\JC\JCZN_LedPacker\繁易触摸屏 文件\繁易触摸屏\Bin\fshmi.bin
+*GUI(1)*PicResDir:C:\Users\huang\Desktop\JC\JCZN_LedPacker\繁易触摸屏 文件\繁易触摸屏\Bin\Images\
+*GUI(1)*TtfResDir:C:\Users\huang\Desktop\JC\JCZN_LedPacker\繁易触摸屏 文件\繁易触摸屏\Bin\Fonts\
+*GUI(1)*AudResDir:C:\Program Files (x86)\Flexem\FStudio 2.x\Bin\
+*GUI(1)*PlcDrvDir:C:\Users\huang\Desktop\JC\JCZN_LedPacker\繁易触摸屏 文件\繁易触摸屏\Bin\Device\
+*GUI(1)*MacroDir:C:\Users\huang\Desktop\JC\JCZN_LedPacker\繁易触摸屏 文件\繁易触摸屏\Bin\Macro\
+*GUI(1)*RcpDir:C:\Users\huang\Desktop\JC\JCZN_LedPacker\繁易触摸屏 文件\繁易触摸屏\temp\disk\hmi\rcp\
+*GUI(1)*SysFrmBuf:<XPixs>800</XPixs><YPixs>480</YPixs><ColorBits>16</ColorBits>
+*GUI(1)*HmiDir:C:\Users\huang\Desktop\JC\JCZN_LedPacker\繁易触摸屏 文件\繁易触摸屏\temp\disk\hmi\
+*GUI(1)*SdDir:C:\Users\huang\Desktop\JC\JCZN_LedPacker\繁易触摸屏 文件\繁易触摸屏\temp\disk\sd\
+*GUI(1)*Usb1Dir:C:\Users\huang\Desktop\JC\JCZN_LedPacker\繁易触摸屏 文件\繁易触摸屏\temp\disk\usb1\
+*GUI(1)*Usb2Dir:C:\Program Files (x86)\Flexem\FStudio 2.x\Bin\
+*GUI(1)*MemFs:C:\Users\huang\Desktop\JC\JCZN_LedPacker\繁易触摸屏 文件\繁易触摸屏\temp\ramdisk\
+*GUI(1)*RunMode:TruePlc
+*GUI(1)*Debug:N
+*GUI(1)*SysFontDir:C:\Program Files (x86)\Flexem\FStudio 2.x\Lib\Fonts\
+*GUI(1)*MapPort:1234
+*GUI(1)*ClientMonit::Pid(0)
+*GUI(1)*MacMonitor(3)::Pid(0)
+*GUI(1)*LightSave 0 BackLight 10 LightPercent 3
+*GUI(1)*DoLoadTtfFile::Pid(0)
+*GUI(1)*loadTtfFile(C:\Program Files (x86)\Flexem\FStudio 2.x\Lib\Fonts\puhui-regular.ttf) OK
+*GUI(1)*Touch::Pid(0)
+*GUI(201)*MacMonitor(1)::Pid(0)
+*GUI(2201)*TOUCH_DOWN:(128,420)
+*GUI(2201)*TOUCH_UP:(128,420)
+*GUI(3601)*TOUCH_DOWN:(104,55)
+*GUI(3701)*TOUCH_UP:(104,55)
+*GUI(130701)*MacMonitor(2)::Pid(0)
+*GUI(166301)*CLICK_DOUBLE:(95,59)
+*GUI(166401)*TOUCH_UP:(95,59)
+*GUI(185801)*TOUCH_DOWN:(124,66)
+*GUI(185901)*TOUCH_UP:(124,66)
+*GUI(363101)*TOUCH_DOWN:(113,54)
+*GUI(363201)*TOUCH_UP:(113,54)
+*GUI(368501)*CLICK_DOUBLE:(103,66)
+*GUI(368601)*TOUCH_UP:(103,66)
+*GUI(381001)*TOUCH_DOWN:(111,58)
+*GUI(381001)*TOUCH_UP:(111,58)
+*GUI(387301)*CLICK_DOUBLE:(89,63)
+*GUI(387401)*TOUCH_UP:(89,63)

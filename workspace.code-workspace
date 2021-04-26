@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.autoGuessEncoding": false,
+		"files.encoding": "gb2312"
+	}
+}
